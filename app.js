@@ -35,6 +35,53 @@
 // let rezult1 = console.log(searchValue(arr, 1));
 
 
+// Q no: 3
+
+// const myButton = document.getElementById("my-button");
+
+// myButton.addEventListener("click", function() {
+
+//   document.write("Hello How are you all? Hope you all are fit and fine.");
+// });
+
+// Q no: 4
+
+// function addListItem(text) {
+  
+//     const list = document.querySelector('ul');
+  
+//     const newItem = document.createElement('li');
+  
+//     newItem.textContent = text;
+  
+//     list.appendChild(newItem);
+//   }
+
+//   addListItem('New item We can take through this');
+//   addListItem('Graphic Designing');
+//   addListItem('Photoshop');
+
+// Q no: 5
+
+// let myColor = document.querySelector("p");
+// myColor.innerHTML="<b> Hello Developers </b>";
+
+// let myHead = document.querySelector("h5");
+// myHead.innerHTML="<b> How are you? </b>";
+
+// setInterval (function(){
+
+//     myColor.style.backgroundColor = "#000";
+//     myColor.style.color = "white";
+//     console.log(myColor);
+
+//     myHead.style.backgroundColor = "#000";
+// myHead.style.color = "yellow";
+// console.log(myHead);
+
+// })
+
+
 // Q no: 06
 
 // function myObj(key, object) {
@@ -77,40 +124,6 @@
 // let newObj = saveToLocalStorage(myObj);
 // console.log(newObj);
 // console.log(myObj);
-
-
-// Q no: 5
-
-// let myColor = document.querySelector("p");
-// myColor.innerHTML="<b> Hello Developers </b>";
-
-// let myHead = document.querySelector("h5");
-// myHead.innerHTML="<b> How are you? </b>";
-
-// setInterval (function(){
-
-//     myColor.style.backgroundColor = "#000";
-//     myColor.style.color = "white";
-//     console.log(myColor);
-
-//     myHead.style.backgroundColor = "#000";
-// myHead.style.color = "yellow";
-// console.log(myHead);
-
-// })
-
-// Q no: 3
-
-// const myButton = document.getElementById("my-button");
-
-// myButton.addEventListener("click", function() {
-
-//   document.write("Hello How are you all? Hope you all are fit and fine.");
-// });
-
-
-
-
 
 
 
